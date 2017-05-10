@@ -1,0 +1,41 @@
+D:\C# Projects\3Layer1\3Layer1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C# Projects\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.Properties.Resources.resources
+D:\C# Projects\3Layer1\3Layer1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C# Projects\3Layer1\3Layer1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C# Projects\3Layer1\3Layer1\bin\Debug\3Layer1.exe
+D:\C# Projects\3Layer1\3Layer1\bin\Debug\3Layer1.pdb
+D:\C# Projects\3Layer1\3Layer1\bin\Debug\BL.dll
+D:\C# Projects\3Layer1\3Layer1\bin\Debug\DA.dll
+D:\C# Projects\3Layer1\3Layer1\bin\Debug\BL.pdb
+D:\C# Projects\3Layer1\3Layer1\bin\Debug\DA.pdb
+D:\C# Projects\3Layer1\3Layer1\obj\x86\Debug\3Layer1.exe
+D:\C# Projects\3Layer1\3Layer1\obj\x86\Debug\3Layer1.pdb
+D:\C# Projects\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.FormChoice.resources
+D:\C# Projects\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.FormDataGridChoice.resources
+D:\C# Projects\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.FormDataGridStudent.resources
+D:\C# Projects\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.FormStudent.resources
+D:\C# Projects\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.FormLogin.resources
+D:\C# Projects\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.FormMain.resources
+D:\C# Projects\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.FormChoiceStudent.resources
+D:\C# Projects\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.FormChangePass.resources
+D:\C# Projects\3Layer1\3Layer1\bin\Debug\3Layer1.exe.config
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\bin\Debug\3Layer1.exe.config
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\obj\x86\Debug\3Layer1.exe
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\obj\x86\Debug\3Layer1.pdb
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\bin\Debug\3Layer1.exe
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\bin\Debug\3Layer1.pdb
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\bin\Debug\BL.dll
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\bin\Debug\DA.dll
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\bin\Debug\BL.pdb
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\bin\Debug\DA.pdb
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\obj\x86\Debug\3Layer1.csprojResolveAssemblyReference.cache
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.FormChangePass.resources
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.FormChoice.resources
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.FormChoiceStudent.resources
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.FormDataGridChoice.resources
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.FormDataGridStudent.resources
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.FormLogin.resources
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.FormMain.resources
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.FormStudent.resources
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\obj\x86\Debug\_3Layer1.Properties.Resources.resources
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\3Layer1\obj\x86\Debug\3Layer1.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+D:\C# Projects\3Layer1\DA\bin\Debug\DA.dll
+D:\C# Projects\3Layer1\DA\bin\Debug\DA.pdb
+D:\C# Projects\3Layer1\DA\obj\Debug\ResolveAssemblyReference.cache
+D:\C# Projects\3Layer1\DA\obj\Debug\DA.dll
+D:\C# Projects\3Layer1\DA\obj\Debug\DA.pdb
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\DA\bin\Debug\DA.dll
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\DA\bin\Debug\DA.pdb
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\DA\obj\Debug\DA.csprojResolveAssemblyReference.cache
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\DA\obj\Debug\DA.dll
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\DA\obj\Debug\DA.pdb

@@ -1,0 +1,14 @@
+D:\C# Projects\3Layer1\BL\obj\Debug\ResolveAssemblyReference.cache
+D:\C# Projects\3Layer1\BL\bin\Debug\BL.dll
+D:\C# Projects\3Layer1\BL\bin\Debug\BL.pdb
+D:\C# Projects\3Layer1\BL\bin\Debug\DA.dll
+D:\C# Projects\3Layer1\BL\bin\Debug\DA.pdb
+D:\C# Projects\3Layer1\BL\obj\Debug\BL.dll
+D:\C# Projects\3Layer1\BL\obj\Debug\BL.pdb
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\BL\bin\Debug\BL.dll
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\BL\bin\Debug\BL.pdb
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\BL\bin\Debug\DA.dll
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\BL\bin\Debug\DA.pdb
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\BL\obj\Debug\BL.dll
+C:\Users\Matrix\Desktop\HW 2 - 2\HW 2 - 2\3Layer1\BL\obj\Debug\BL.pdb
