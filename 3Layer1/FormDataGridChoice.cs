@@ -50,7 +50,17 @@ namespace _3Layer1
 
         private void btndel_Click(object sender, EventArgs e)
         {
-            
+            int del = int.Parse(dgvchoice[0, dgvchoice.CurrentRow.Index].Value.ToString());
++            DialogResult dr;
++            dr = MessageBox.Show("آیا می خواهید این درس حذف شود؟", "هشدار", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
++            if (dr == DialogResult.Yes)
++            {
++                Choice ch = new Choice();
++                ch.cid = del;
++                ch.delete();
++                MessageBox.Show("درس با موفقیت حذف شد", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
++                FormDataGridChoice_Load(null, null);
++            }
         }
 
         private void button2_Click(object sender, EventArgs e)
